@@ -1,0 +1,22 @@
+#brand {
+    height: 2em;
+    width: 2em;
+}
+
+.navbar-toggler {
+    background-color: #ffde59;
+    color: #03989e !important;
+}
+
+.bg-light {
+    background-color: #03989e !important;
+}
+
+.nav-link {
+    color: #ffde59 !important;
+    opacity: 1;
+}
+
+.nav-link:hover {
+    opacity: 0.8;
+}

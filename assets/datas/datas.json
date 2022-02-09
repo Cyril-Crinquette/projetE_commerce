@@ -1,0 +1,206 @@
+{
+    "burgers": [
+        {
+            "id": "650120",
+            "photo": "b1.png",
+            "price" : 8.90,
+            "title": "Classic",
+            "overview": "Sandwich: Burger, Salade, Tomate, Cornichon"
+        },
+        {
+            "id": "650121",
+            "photo": "b2.png",
+            "price" : 9.50,
+            "title": "Bacon",
+            "overview": "Sandwich: Burger, Fromage, Bacon, Salade, Tomate"
+        },
+        {
+            "id": "650122",
+            "photo": "b3.png",
+            "price" : 10.90,
+            "title": "Big",
+            "overview": "Sandwich: Double Burger, Fromage, Cornichon, Salade"
+        },
+        {
+            "id": "650123",
+            "photo": "b4.png",
+            "price" : 9.90,
+            "title": "Chicken",
+            "overview": "Sandwich: Poulet Frit, Tomate, Salade, Mayonnaise"
+        },
+        {
+            "id": "650124",
+            "photo": "b5.png",
+            "price" : 10.90,
+            "title": "Fish",
+            "overview": "Sandwich: Poisson, Salade, Mayonnaise, Cornichon"
+        },
+        {
+            "id": "650125",
+            "photo": "b6.png",
+            "price" :11.90,
+            "title": "Double Steak",
+            "overview": "Sandwich: Double Burger, Fromage, Bacon, Salade, Tomate"
+        }
+    ],
+
+    "drink": [
+        {
+            "id": "650130",
+            "photo": "bo1.png",
+            "price" : 1.90,
+            "title": "Coca-Cola",
+            "overview": "Ca pétille et c'est délicieux!"
+        },
+        {
+            "id": "650131",
+            "photo": "bo2.png",
+            "price" : 1.90,
+            "title": "Coca-Cola Light",
+            "overview": "Ca pétille, c'est délicieux et peu calorique!"
+        },
+        {
+            "id": "650132",
+            "photo": "bo3.png",
+            "price" : 1.90,
+            "title": "Coca-Cola Zero",
+            "overview": "Ca pétille, c'est délicieux et avec 0 calorie!"
+        },
+        {
+            "id": "650133",
+            "photo": "bo4.png",
+            "price" : 1.90,
+            "title": "Fanta",
+            "overview": "Un goût d'orange qui vous explose en bouche!"
+        },
+        {
+            "id": "650134",
+            "photo": "bo5.png",
+            "price" : 1.90,
+            "title": "Sprite",
+            "overview": "Besoin de fraîcheur? Voici ce qu'il vous faut!"
+        },
+        {
+            "id": "650135",
+            "photo": "bo6.png",
+            "price" : 1.90,
+            "title": "Nestea",
+            "overview": "Un thé glacé rarement vu ailleurs"
+        }
+    ],
+
+    "snacks": [
+        {
+            "id": "650140",
+            "photo": "s1.png",
+            "price" : 3.90,
+            "title": "Frites",
+            "overview": "Pommes de terre frites à consommer sans modération"
+        },
+        {
+            "id": "650141",
+            "photo": "s2.png",
+            "price" : 3.40,
+            "title": "Onion Rings",
+            "overview": "Rondelles d'oignon frits à consommer sans modération"
+        },
+        {
+            "id": "650142",
+            "photo": "s3.png",
+            "price" : 5.90,
+            "title": "Nuggets",
+            "overview": "Nuggets de poulet frits à consommer sans modération"
+        },
+        {
+            "id": "650143",
+            "photo": "s4.png",
+            "price" : 3.50,
+            "title": "Nuggets de fromage",
+            "overview": "Nuggets de fromage frits à consommer sans modération"
+        },
+        {
+            "id": "650144",
+            "photo": "s5.png",
+            "price" : 5.90,
+            "title": "Ailes de poulet",
+            "overview": "Ailes de poulet barbecue à consommer sans modération"
+        }
+        
+    ],
+
+    "desserts": [
+        {
+            "id": "650150",
+            "photo": "d1.png",
+            "price" : 4.90,
+            "title": "Fondant au chocolat",
+            "overview": "Tellement fondant qu'on en perd la boule"
+        },
+        {
+            "id": "650151",
+            "photo": "d2.png",
+            "price" : 2.90,
+            "title": "Muffin",
+            "overview": "L'essayer, c'est l'adopter"
+        },
+        {
+            "id": "650152",
+            "photo": "d3.png",
+            "price" : 2.90,
+            "title": "Beignet",
+            "overview": "Mangez le et nous vous verrons tous les jours"
+        },
+        {
+            "id": "650153",
+            "photo": "d4.png",
+            "price" : 3.90,
+            "title": "Milkshake",
+            "overview": "Ne vous pincez pas, ce que vous dégusterez est bien réel"
+        },
+        {
+            "id": "650154",
+            "photo": "d5.png",
+            "price" : 4.90,
+            "title": "Sundae",
+            "overview": "Vous ne verrez plus jamais les glaces comme avant"
+        }
+    ],
+
+    "salads": [
+        {
+            "id": "650160",
+            "photo": "sa1.png",
+            "price" : 8.90,
+            "title": "César Poulet Pané",
+            "overview": "Poulet Pané, Salade, Tomate et la fameuse sauce César"
+        },
+        {
+            "id": "650161",
+            "photo": "sa2.png",
+            "price" : 8.90,
+            "title": "César Poulet Grillé",
+            "overview": "Poulet Grillé, Salade Tomate et la fameuse sauce César"
+        },
+        {
+            "id": "650162",
+            "photo": "sa3.png",
+            "price" : 5.50,
+            "title": "Salade light",
+            "overview": "Salade, Tomate, Concombre, Maïs et vinaigre balsamique."
+        },
+        {
+            "id": "650163",
+            "photo": "sa4.png",
+            "price" : 7.90,
+            "title": "Poulet Pané",
+            "overview": "Poulet Pané, Salade, Tomate et la sauce de votre choix"
+        },
+        {
+            "id": "650164",
+            "photo": "sa5.png",
+            "price" : 7.90,
+            "title": "Poulet Grillé",
+            "overview": "Poulet Grillé, Salade, Tomate et la sauce de votre choix"
+        }
+    ]     
+}   

@@ -1,0 +1,17 @@
+.modal-content {
+    background-color: #03989e;
+    color: #ff9755;
+}
+
+.border, .modal-header {
+    border-color: #ffdf5e !important;
+}
+
+.bi-x-lg {
+    width: 2em;
+    height: 2em;
+}
+
+.btn-close {
+    color: #ffdf5e !important;
+}
